@@ -15,7 +15,11 @@ __________________________
 - numpy — численные вычисления
 __________________________
 ## ⚙️ Запуск проекта
+Перед стартом выполнить команды:
 
     pip install -r requirements.txt
     python main.py
 
+Скачать exe файл для windows (без установки python и др):
+
+https://github.com/VaNeN1Y/visual-mouse-control/releases/download/v1.0/main.exe

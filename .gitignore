@@ -1,3 +1,6 @@
 venv/
 env/
 .idea/
+dist/
+build/
+*.spec
