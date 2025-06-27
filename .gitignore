@@ -3,4 +3,5 @@ env/
 .idea/
 dist/
 build/
+__pycache__/
 *.spec
